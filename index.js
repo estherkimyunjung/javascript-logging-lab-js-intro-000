@@ -1,3 +1,3 @@
 console.error("HALP!");
-console.log("Wellcome");
+console.log("Welcome, You just log in");
 console.warn("Please check again!");
