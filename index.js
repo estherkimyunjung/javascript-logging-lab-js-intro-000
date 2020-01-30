@@ -1,3 +1,3 @@
 console.error("HALP!");
-console.log("");
-console.wran
+console.log("Wellcome");
+console.warn("Please check again!");
